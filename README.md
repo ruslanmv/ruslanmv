@@ -4,8 +4,10 @@
 
 ![ruslanmv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruslanmv&theme=default&hide_border=true)
 
-
 ![ruslanmv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanmv&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+[![Profile views](https://komarev.com/ghpvc/?username=ruslanmv&color=0e75b6)](https://github.com/ruslanmv)
+
 
 **Data Scientist | Artificial Intelligence**
 
