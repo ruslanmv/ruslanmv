@@ -66,8 +66,8 @@ I am a Senior AI Engineer & Cloud Architect focused on **AI-augmented DevOps** a
 ### 📈 Contributions & Activity
 
 <div align="center">
-  <img src="https://github-stats.cloud-data.workers.dev/?user=ruslanmv&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-stats.cloud-data.workers.dev/langs?user=ruslanmv&theme=dark&hide_border=true&layout=compact" height="170" alt="Top Languages" />
+  <img src="https://github-stats.cloud-data.workers.dev/?user=ruslanmv&theme=dark&hide_border=true&v=2" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats.cloud-data.workers.dev/langs?user=ruslanmv&theme=dark&hide_border=true&layout=compact&v=2" height="170" alt="Top Languages" />
 </div>
 
 
