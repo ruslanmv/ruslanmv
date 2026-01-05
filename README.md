@@ -39,21 +39,23 @@ I am a Senior AI Engineer & Cloud Architect focused on **AI-augmented DevOps** a
 > * **Innovation:** Solves the complexity of cloud deployments by having an AI explain CLI outputs, suggest fixes, and guide valid Terraform/AWS commands in real-time.
 > * **Tech:** Python, Web-based Terminal, Generative AI.
 
+**[GitPilot](https://github.com/ruslanmv/GitPilot)**
+> *production-Ready Repository Assistant*
+> An agentic AI system designed to automate GitHub workflows and governance. Includes a comprehensive **Admin Console** and supports multi-LLM switching to optimize for cost vs. intelligence.
+> * **Tech:** JavaScript, AI Agents, REST APIs.
+
+**[Agent-Matrix](https://github.com/agent-matrix)**
+> *Autonomous Multi-Agent Orchestration*
+> A framework for self-organizing AI agents capable of complex task decomposition. Handles non-deterministic workflows where agents collaborate to execute sub-tasks without human intervention.
+> * **Tech:** Python, LangChain, Recursive Planning.
+
 **[cloudrecovery](https://github.com/ruslanmv/cloudrecovery)**
 > *Automated Disaster Recovery & SRE Console*
 > A mission-critical workspace for **Site Reliability Engineering**. Features autonomous monitoring for site outages, AI-driven incident response, and built-in DDoS safeguards.
 > * **Innovation:** "Local-First" architecture ensures recovery tools remain accessible even when cloud dashboards are unreachable.
 > * **Tech:** Python, Network Forensics, AI Diagnostics.
 
-**[GitPilot](https://github.com/ruslanmv/GitPilot)**
-> *production-Ready Repository Assistant*
-> An agentic AI system designed to automate GitHub workflows and governance. Includes a comprehensive **Admin Console** and supports multi-LLM switching to optimize for cost vs. intelligence.
-> * **Tech:** JavaScript, AI Agents, REST APIs.
 
-**[Agent-Matrix](https://github.com/ruslanmv/Agent-Matrix)**
-> *Autonomous Multi-Agent Orchestration*
-> A framework for self-organizing AI agents capable of complex task decomposition. Handles non-deterministic workflows where agents collaborate to execute sub-tasks without human intervention.
-> * **Tech:** Python, LangChain, Recursive Planning.
 
 **[ai-medical-chatbot](https://github.com/ruslanmv/ai-medical-chatbot)**
 > *High-Precision Domain RAG*
