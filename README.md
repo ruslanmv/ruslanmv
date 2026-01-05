@@ -63,12 +63,11 @@ I am a Senior AI Engineer & Cloud Architect focused on **AI-augmented DevOps** a
 > * **Tech:** Generative AI, Vector Embeddings.
 
 ---
-
 ### 📈 Contributions & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruslanmv&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanmv&layout=compact&theme=minimal&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-stats.cloud-data.workers.dev/?user=ruslanmv&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats.cloud-data.workers.dev/langs?user=ruslanmv&theme=dark&hide_border=true&layout=compact" height="170" alt="Top Languages" />
 </div>
 
 ---
