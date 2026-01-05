@@ -62,7 +62,7 @@ I am a Senior AI Engineer & Cloud Architect focused on **AI-augmented DevOps** a
 > A Generative AI solution engineered to minimize hallucinations by strictly grounding responses in medical datasets. Demonstrates strict guardrails suitable for regulated industries.
 > * **Tech:** Generative AI, Vector Embeddings.
 
----
+
 ### 📈 Contributions & Activity
 
 <div align="center">
@@ -70,7 +70,6 @@ I am a Senior AI Engineer & Cloud Architect focused on **AI-augmented DevOps** a
   <img src="https://github-stats.cloud-data.workers.dev/langs?user=ruslanmv&theme=dark&hide_border=true&layout=compact" height="170" alt="Top Languages" />
 </div>
 
----
 
 **Connect with me:**
 
